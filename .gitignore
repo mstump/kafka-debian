@@ -1,0 +1,13 @@
+# Project specific
+*.deb
+kafka_*
+*.tgz
+
+# editor
+*.swp
+*~
+.#*
+#*
+
+# OSX
+.DS_Store
